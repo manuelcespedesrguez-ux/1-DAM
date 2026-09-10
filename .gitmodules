@@ -16,3 +16,6 @@
 [submodule "entornos"]
 	path = entornos
 	url = https://github.com/manuelcespedesrguez-ux/Entornos
+[submodule "SistemasInfor"]
+	path = SistemasInfor
+	url = https://github.com/manuelcespedesrguez-ux/ShellScripting
