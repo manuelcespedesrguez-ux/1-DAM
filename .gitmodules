@@ -19,3 +19,6 @@
 [submodule "SistemasInfor"]
 	path = SistemasInfor
 	url = https://github.com/manuelcespedesrguez-ux/ShellScripting
+[submodule "sostenibilidad"]
+	path = sostenibilidad
+	url = https://github.com/manuelcespedesrguez-ux/C
