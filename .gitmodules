@@ -13,3 +13,6 @@
 [submodule "ipe"]
 	path = ipe
 	url = https://github.com/manuelcespedesrguez-ux/IPE
+[submodule "entornos"]
+	path = entornos
+	url = https://github.com/manuelcespedesrguez-ux/Entornos
