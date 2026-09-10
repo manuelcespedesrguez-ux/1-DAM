@@ -10,3 +10,6 @@
 [submodule "Sistemas"]
 	path = Sistemas
 	url = https://github.com/manuelcespedesrguez-ux/Springboot
+[submodule "ipe"]
+	path = ipe
+	url = https://github.com/manuelcespedesrguez-ux/IPE
