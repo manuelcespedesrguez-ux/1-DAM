@@ -1,3 +1,6 @@
 [submodule "programacion"]
 	path = programacion
 	url = https://github.com/manuelcespedesrguez-ux/Programacion
+[submodule "marcas"]
+	path = marcas
+	url = https://github.com/manuelcespedesrguez-ux/Marcas
