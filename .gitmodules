@@ -22,3 +22,6 @@
 [submodule "sostenibilidad"]
 	path = sostenibilidad
 	url = https://github.com/manuelcespedesrguez-ux/C
+[submodule "BD"]
+	path = BD
+	url = https://github.com/manuelcespedesrguez-ux/Bases-de-Datos
