@@ -4,3 +4,9 @@
 [submodule "marcas"]
 	path = marcas
 	url = https://github.com/manuelcespedesrguez-ux/Marcas
+[submodule "Marcas"]
+	path = Marcas
+	url = https://github.com/manuelcespedesrguez-ux/Springboot
+[submodule "Sistemas"]
+	path = Sistemas
+	url = https://github.com/manuelcespedesrguez-ux/Springboot
